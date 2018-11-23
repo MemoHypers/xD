@@ -25,14 +25,6 @@
     "discord.js": "^11.3.2",
     "express": "*"
 
-
-    "name": "Test",
-    "description": "Test",
-    "version": "0.0.0",
-    "main": "bot.js",
-    "scripts": {
-      "start": "node bot.js"
-    },
     "dependencies": {
      "discord.js": "^11.3.2",
       "discord.js-musicbot-addon": "^1.10.3",
